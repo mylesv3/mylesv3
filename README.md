@@ -7,7 +7,7 @@ Aspiring Python Developer
 I am a student and aspiring Python developer with a strong understanding of software development principles and practices. I am dedicated to continuous learning and improving of my coding skills.
 
 *   🌍  I'm based in Georgia
-*   🖥️  See my portfolio at [mylesthedeveloper.com](http://mylesthedeveloper.com)
+*   🖥️  See my portfolio at [programmingwithmyles.com](http://programmingwithmyles.com)
 *   ✉️  You can contact me at [mylesvendryes@gmail.com](mailto:mylesvendryes@gmail.com)
 *   🧠  I'm learning Python, SQL, Java, and C++
 *   🤝  I'm open to collaborating on Projects
