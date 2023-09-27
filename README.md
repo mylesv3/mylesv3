@@ -1,4 +1,4 @@
-<h1>Hi, I'm Myles! <br/><a href="https://github.com/mylesv3">Programmer</a> and <a href="https://www.linkedin.com/in/mylesvendryes/">Student</a>
+<h1>Hi, I'm Myles! <br/><a href="https://github.com/mylesv3">Developer</a> and <a href="https://www.linkedin.com/in/mylesvendryes/">Student</a>
 
 - 🔭 I’m currently looking for new opportunities 
 - 🌱 I’m currently learning encryption and ethical hacking
