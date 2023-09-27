@@ -12,7 +12,7 @@
   - [Caeser Cipher](https://github.com/mylesv3/caeserCipher)
   - [Password Checker](https://github.com/mylesv3/passwordCheck)
 
-<h2>Cybersecurity Projects</h2>
+<h2>🔓 Cybersecurity Projects</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Workin on...]
