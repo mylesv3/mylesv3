@@ -13,7 +13,9 @@
   - [Password Checker](https://github.com/mylesv3/passwordCheck)
 
 <h2>Cybersecurity Projects</h2>
+  
   - <b>SQL</b>
+    -
     
 
 
