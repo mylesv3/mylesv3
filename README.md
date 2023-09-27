@@ -11,9 +11,8 @@
 - <b>Python</b>
   - [Caeser Cipher](https://github.com/mylesv3/caeserCipher)
   - [Password Checker](https://github.com/mylesv3/passwordCheck)
-  - [Packet Sniffer - Working on]
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Workin on...]
+- <b>Cybersecurity Labs</b>
+  - [SQL Filters]
     
 
 
