@@ -11,8 +11,9 @@
 - <b>Python</b>
   - [Caeser Cipher](https://github.com/mylesv3/caeserCipher)
   - [Password Checker](https://github.com/mylesv3/passwordCheck)
-- <b>Cybersecurity Labs</b>
-  - [SQL Filters]
+
+<h2>Cybersecurity Projects</h2>
+  - [SQL]
     
 
 
