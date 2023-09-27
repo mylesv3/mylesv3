@@ -1,7 +1,7 @@
 <h1>Hi, I'm Myles! <br/><a href="https://github.com/mylesv3">Programmer</a> and <a href="https://www.linkedin.com/in/mylesvendryes/">Student</a>
 
-- 🔭 I’m currently working on a user authentication program
-- 🌱 I’m currently learning data structure and algorithms
+- 🔭 I’m currently looking for new opportunities 
+- 🌱 I’m currently learning encryption and ethical hacking
 - ⚡ Fun fact: I love Jesus and video games
 
 <h2>👨‍💻 Software Development Projects:</h2>
