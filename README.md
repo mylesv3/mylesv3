@@ -15,7 +15,9 @@
 <h2>🔓 Cybersecurity Projects</h2>
 
 - <b>Automation w/ Python</b>
-  - [Update File](https://github.com/mylesv3/update_file) 
+  - [Update File](https://github.com/mylesv3/update_file)
+- <b>SQL Labs</b>
+  - [Apply Query Filters](https://github.com/mylesv3/sql_filters)  
 
     
 
