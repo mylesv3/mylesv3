@@ -15,7 +15,7 @@
 <h2>🔓 Cybersecurity Projects</h2>
 
 - <b>Automation w/ Python</b>
-  - [Update file] (https://github.com/mylesv3/update_file) 
+  - [Update File](https://github.com/mylesv3/update_file) 
 
     
 
