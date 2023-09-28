@@ -14,8 +14,9 @@
 
 <h2>🔓 Cybersecurity Projects</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Workin on...]
+- <b>Automation w/ Python</b>
+  - [Update file]
+  - 
     
 
 
