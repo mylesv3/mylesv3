@@ -20,7 +20,7 @@
   - [Apply Query Filters](https://github.com/mylesv3/sql_filters)
 - <b>Parse Text File w/ Python</b>
   - [Parsing Algorithm](https://github.com/mylesv3/parse_algorithm)
-- <b>Network Traffic Ananlysis</b>
+- <b>Network Traffic Analysis</b>
   - [Packet Capture w/ tcpdump](https://github.com/mylesv3/packet_capture)
 
     
