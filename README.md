@@ -19,7 +19,9 @@
 - <b>SQL Labs</b>
   - [Apply Query Filters](https://github.com/mylesv3/sql_filters)
 - <b>Parse Text File w/ Python</b>
-  - [Parsing Algorithm](https://github.com/mylesv3/parse_algorithm) 
+  - [Parsing Algorithm](https://github.com/mylesv3/parse_algorithm)
+- <b>Network Traffic Ananlysis</b>
+  - [Packet Capture w/ tcpdump](https://github.com/mylesv3/packet_capture)
 
     
 
