@@ -22,6 +22,7 @@
   - [Parsing Algorithm](https://github.com/mylesv3/parse_algorithm)
 - <b>Network Traffic Analysis</b>
   - [Packet Capture w/ tcpdump](https://github.com/mylesv3/packet_capture)
+  - [Analyze logs w/ Suricata](https://github.com/mylesv3/suricata_logs)
 
     
 
