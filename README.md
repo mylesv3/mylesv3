@@ -17,7 +17,9 @@
 - <b>Automation w/ Python</b>
   - [Update File](https://github.com/mylesv3/update_file)
 - <b>SQL Labs</b>
-  - [Apply Query Filters](https://github.com/mylesv3/sql_filters)  
+  - [Apply Query Filters](https://github.com/mylesv3/sql_filters)
+- <b>Parse Text File w/ Python</b>
+  - [Parsing Algorithm](https://github.com/mylesv3/parse_algorithm) 
 
     
 
