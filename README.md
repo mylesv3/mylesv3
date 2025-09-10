@@ -13,7 +13,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | Packet Capture with tcpdump                   | <a href="https://github.com/mylesv3/packet_capture">Packet Capture Lab</a>|
 | Analyze logs w/ Suricata                      | <a href="https://github.com/mylesv3/suricata_logs">Log Analysis Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Network Traffic Analysis w/ Wireshark         | Network Traffic Analysis Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
