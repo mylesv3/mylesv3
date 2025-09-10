@@ -1,4 +1,4 @@
-# Hello, I'm Myles
+# Hello, I'm Myles :) 
 <a href="https://www.linkedin.com/in/mylesvendryes"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 This GitHub is to showcase my expanding skills in cybersecurity.
