@@ -5,7 +5,7 @@ This GitHub is to showcase my expanding skills in cybersecurity.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My goal is to transition into a Security Operations role. I am also expanding my knowledge of cloud architecture and AI.
 
 ## Skills
 
@@ -26,6 +26,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+## Other Projects
