@@ -5,7 +5,7 @@ This GitHub is to showcase my expanding skills in cybersecurity.
 
 ## Objective
 
-My goal is to transition into a Security Operations role. I am also expanding my knowledge of cloud architecture and AI.
+My goal is to transition into a Security Operations role. I am also expanding my knowledge of cloud architecture and LLMs.
 
 ## Skills
 
