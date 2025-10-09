@@ -15,9 +15,8 @@ My goal is to transition into a Security Operations role. I am also expanding my
 | Analyze logs w/ Suricata                      | <a href="https://github.com/mylesv3/suricata_logs">Log Analysis Lab</a>|
 | Network Traffic Analysis w/ Wireshark         | <a href="https://github.com/mylesv3/network_traffic_analysis">Network Traffic Analysis Lab</a>|
 | Analyzing Network Ports w/ Netstat            | Working on|
-| Endpoint Detection Lab                        | Working on|
-| SIEM Lab w/ Splunk                            | Working on|
-| CTF Labs                                      | Working on|
+| Active Directory Home Lab                     | Working on|
+| SOC Automation Lab w/ AI                      | Working on|
 
 
 ## Certifications (pursuing)
