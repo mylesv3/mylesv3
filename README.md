@@ -26,3 +26,5 @@ My goal is to transition into a Security Operations role. I am also expanding my
 </div>
 
 ## Other Projects
+LLM LangChain App
+AI Workflow w/ AWS
