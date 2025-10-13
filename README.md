@@ -26,6 +26,6 @@ My goal is to transition into a Security Operations role. I am also expanding my
 </div>
 
 ## Other Projects
-LLM LangChain App
+LLM LangChain App (in progress)
 
 <a href="https://github.com/mylesv3/bedrock_agents">AI Workflow w/ AWS</a>
