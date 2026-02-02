@@ -14,9 +14,9 @@ My goal is to transition into an IAM analyst role. I am also expanding my knowle
 | Packet Capture with tcpdump                   | <a href="https://github.com/mylesv3/packet_capture">Packet Capture Lab</a>|
 | Analyze logs w/ Suricata                      | <a href="https://github.com/mylesv3/suricata_logs">Log Analysis Lab</a>|
 | Network Traffic Analysis w/ Wireshark         | <a href="https://github.com/mylesv3/network_traffic_analysis">Network Traffic Analysis Lab</a>|
-| Analyzing Network Ports w/ Netstat            | Working on|
+| SSH and User Access w/ Linux                  | Working on|
 | Active Directory Home Lab                     | Working on|
-| SOC Automation Lab w/ AI                      | Working on|
+| User Management w/ Entra ID                   | Working on|
 
 
 ## Certifications (pursuing)
@@ -26,6 +26,5 @@ My goal is to transition into an IAM analyst role. I am also expanding my knowle
 </div>
 
 ## Other Projects
-LLM LangChain App (in progress)
 
 <a href="https://github.com/mylesv3/bedrock_agents">AI Workflow w/ AWS</a>
