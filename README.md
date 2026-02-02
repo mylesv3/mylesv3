@@ -1,11 +1,11 @@
 # Hello, I'm Myles :) 
 <a href="https://www.linkedin.com/in/mylesvendryes"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-This GitHub is to showcase my expanding skills in cybersecurity (IAM).
+This GitHub showcases my expanding skills in cybersecurity (IAM).
 
 ## Objective
 
-My goal is to transition into a IAM analyst role. I am also expanding my knowledge of cloud security and AI.
+My goal is to transition into an IAM analyst role. I am also expanding my knowledge of cloud security and AI.
 
 ## Skills
 
