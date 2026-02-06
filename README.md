@@ -17,7 +17,7 @@ My goal is to transition into an IAM analyst role. I am also expanding my knowle
 | SSH and User Access w/ Linux                  | Working on|
 | Active Directory Home Lab                     | Working on|
 | User Management w/ Entra ID                   | Working on|
-
+| Linux Troubleshooting                         | Working on|
 
 ## Certifications (pursuing)
 <div>
